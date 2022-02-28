@@ -7,6 +7,6 @@
 <a href="https://discord.com/users/205984221859151873" >  
   	<img align="center" src="https://lanyard-profile-readme.vercel.app/api/205984221859151873/?idleMessage=Being lazy as frick, not doing anything."  />  
 </a>  
-<a href="https://hits.link/">
-	<img align="center" src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Fjoerkig"/>
+<a href="https://hits.seeyoufarm.com">
+	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoerkig&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </a>

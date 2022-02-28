@@ -14,7 +14,7 @@
 	</a>
 </div>
 <div align="center">
-	<a href="https://hits.seeyoufarm.com">
+	<a href="https://hits.link/">
 		<img src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Fjoerkig"/>
 	</a>
 </div>
